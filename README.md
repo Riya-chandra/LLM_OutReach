@@ -4,10 +4,10 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/eracle/myoutreach.svg?style=flat-square&logo=github)](https://github.com/eracle/myoutreach/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/eracle/myoutreach.svg?style=flat-square&logo=github)](https://github.com/eracle/myoutreach/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Riya-chandra/AutomationLLM_OutReach.svg?style=flat-square&logo=github)](https://github.com/Riya-chandra/AutomationLLM_OutReach/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Riya-chandra/AutomationLLM_OutReach.svg?style=flat-square&logo=github)](https://github.com/Riya-chandra/AutomationLLM_OutReach/network/members)
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
-[![Open Issues](https://img.shields.io/github/issues/eracle/myoutreach.svg?style=flat-square&logo=github)](https://github.com/eracle/myoutreach/issues)
+[![Open Issues](https://img.shields.io/github/issues/Riya-chandra/AutomationLLM_OutReach.svg?style=flat-square&logo=github)](https://github.com/Riya-chandra/AutomationLLM_OutReach/issues)
 
 <br/>
 
@@ -86,8 +86,8 @@ For contributors or if you prefer running directly on your machine.
 
 ### 1. Clone & Set Up
 ```bash
-git clone https://github.com/eracle/myoutreach.git
-cd myoutreach
+git clone https://github.com/Riya-chandra/AutomationLLM_OutReach.git
+cd AutomationLLM_OutReach
 
 # Install deps, Playwright browsers, run migrations, and bootstrap CRM
 make setup
@@ -278,20 +278,19 @@ By using this software you accept the [Legal Notice](LEGAL_NOTICE.md). It covers
 
 <div align="center">
 
-<a href="https://star-history.com/#eracle/myoutreach&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=eracle/myoutreach&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=eracle/myoutreach&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=eracle/myoutreach&type=Date" width="400" />
- </picture>
-</a>
+<div align="center">
 
 **Made with ❤️**
 
 </div>
-#   A u t o m a t i o n L L M _ O u t R e a c h  
- #   A u t o m a t i o n L L M _ O u t R e a c h  
- #   A u t o m a t i o n L L M _ O u t R e a c h  
- #   A u t o m a t i o n L L M _ O u t R e a c h  
- #   L L M _ O u t R e a c h  
+#   A u t o m a t i o n L L M _ O u t R e a c h 
+ 
+ #   A u t o m a t i o n L L M _ O u t R e a c h 
+ 
+ #   A u t o m a t i o n L L M _ O u t R e a c h 
+ 
+ #   A u t o m a t i o n L L M _ O u t R e a c h 
+ 
+ #   L L M _ O u t R e a c h 
+ 
  
