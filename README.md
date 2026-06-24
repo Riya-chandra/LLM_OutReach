@@ -85,6 +85,7 @@ For contributors or if you prefer running directly on your machine.
 - [Python](https://www.python.org/downloads/) (3.12+)
 
 ### 1. Clone & Set Up
+
 ```bash
 git clone https://github.com/Riya-chandra/AutomationLLM_OutReach.git
 cd AutomationLLM_OutReach
@@ -98,11 +99,13 @@ make setup
 ```bash
 make run
 ```
+
 The interactive onboarding will prompt for LinkedIn credentials, LLM API key, and campaign details on first run. Fully resumable — stop/restart anytime without losing progress.
 
 ### 3. View Your Data (CRM Admin)
 
 myoutreach includes a full CRM web interface powered by DjangoCRM:
+
 ```bash
 # Create an admin account (first time only)
 python manage.py createsuperuser
@@ -110,23 +113,25 @@ python manage.py createsuperuser
 # Start the web server
 make admin
 ```
+
 Then open:
 - **Django Admin:** http://localhost:8000/admin/
 
 ---
+
 ## ✨ Features
 
-| Feature                            | Description                                                                                                          |
-|------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| 🧠 **Autonomous Lead Discovery**   | No contact lists needed — LLM generates search queries from your product description and campaign objective.         |
-| 🎯 **Bayesian Active Learning**    | Gaussian Process model on profile embeddings learns your ideal customer via explore/exploit, selecting the most informative candidates for LLM qualification. |
-| 🤖 **Stealth Browser Automation**  | Playwright + stealth plugins mimic real user behavior for undetectable interactions.                                 |
-| 🛡️ **Voyager API Scraping**       | Uses LinkedIn's internal API for accurate, structured profile data (no fragile HTML parsing).                        |
-| 🔄 **Stateful Pipeline**          | Tracks profile states (`QUALIFIED` → `READY_TO_CONNECT` → `PENDING` → `CONNECTED` → `COMPLETED`) in a local DB — fully resumable. |
-| ⏱️ **Smart Rate Limiting**        | Configurable daily/weekly limits per action type, respects LinkedIn's own limits automatically.                      |
-| 💾 **Built-in CRM**               | Full data ownership via DjangoCRM with Django Admin UI — browse Leads, Contacts, Companies, and Deals.              |
-| 🐳 **One-Command Deployment**      | Dockerized setup with interactive onboarding and a live browser view in your browser (noVNC at `http://localhost:6080/vnc.html`). |
-| ✍️ **AI-Powered Messaging**        | Agentic multi-turn follow-up conversations — the AI agent reads history, sends messages, and schedules future follow-ups. |
+| Feature | Description |
+|---------|-------------|
+| 🧠 **Autonomous Lead Discovery** | No contact lists needed — LLM generates search queries from your product description and campaign objective. |
+| 🎯 **Bayesian Active Learning** | Gaussian Process model on profile embeddings learns your ideal customer via explore/exploit, selecting the most informative candidates for LLM qualification. |
+| 🤖 **Stealth Browser Automation** | Playwright + stealth plugins mimic real user behavior for undetectable interactions. |
+| 🛡️ **Voyager API Scraping** | Uses LinkedIn's internal API for accurate, structured profile data (no fragile HTML parsing). |
+| 🔄 **Stateful Pipeline** | Tracks profile states (`QUALIFIED` → `READY_TO_CONNECT` → `PENDING` → `CONNECTED` → `COMPLETED`) in a local DB — fully resumable. |
+| ⏱️ **Smart Rate Limiting** | Configurable daily/weekly limits per action type, respects LinkedIn's own limits automatically. |
+| 💾 **Built-in CRM** | Full data ownership via DjangoCRM with Django Admin UI — browse Leads, Contacts, Companies, and Deals. |
+| 🐳 **One-Command Deployment** | Dockerized setup with interactive onboarding and a live browser view in your browser (noVNC at `http://localhost:6080/vnc.html`). |
+| ✍️ **AI-Powered Messaging** | Agentic multi-turn follow-up conversations — the AI agent reads history, sends messages, and schedules future follow-ups. |
 
 ---
 
@@ -249,12 +254,12 @@ This project is built in spare time to provide powerful, **free** open-source gr
 
 <br/>
 
-| Tier        | Monthly | Benefits                                                              |
-|-------------|---------|-----------------------------------------------------------------------|
-| ☕ Supporter | $5      | Huge thanks + name in README supporters list                          |
-| 🚀 Booster  | $25     | All above + priority feature requests + early access to new campaigns |
-| 🦸 Hero     | $100    | All above + personal 1-on-1 support + influence roadmap               |
-| 💎 Legend   | $500+   | All above + custom feature development + shoutout in releases         |
+| Tier | Monthly | Benefits |
+|------|---------|----------|
+| ☕ Supporter | $5 | Huge thanks + name in README supporters list |
+| 🚀 Booster | $25 | All above + priority feature requests + early access to new campaigns |
+| 🦸 Hero | $100 | All above + personal 1-on-1 support + influence roadmap |
+| 💎 Legend | $500+ | All above + custom feature development + shoutout in releases |
 
 </div>
 
@@ -278,19 +283,6 @@ By using this software you accept the [Legal Notice](LEGAL_NOTICE.md). It covers
 
 <div align="center">
 
-<div align="center">
-
 **Made with ❤️**
 
 </div>
-#   A u t o m a t i o n L L M _ O u t R e a c h 
- 
- #   A u t o m a t i o n L L M _ O u t R e a c h 
- 
- #   A u t o m a t i o n L L M _ O u t R e a c h 
- 
- #   A u t o m a t i o n L L M _ O u t R e a c h 
- 
- #   L L M _ O u t R e a c h 
- 
- 
