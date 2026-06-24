@@ -1,15 +1,4 @@
-![myoutreach Logo](docs/logo.png)
-
-> **Describe your product. Define your target market. The AI finds the leads for you.**
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/Riya-chandra/AutomationLLM_OutReach.svg?style=flat-square&logo=github)](https://github.com/Riya-chandra/AutomationLLM_OutReach/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Riya-chandra/AutomationLLM_OutReach.svg?style=flat-square&logo=github)](https://github.com/Riya-chandra/AutomationLLM_OutReach/network/members)
-[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
-[![Open Issues](https://img.shields.io/github/issues/Riya-chandra/AutomationLLM_OutReach.svg?style=flat-square&logo=github)](https://github.com/Riya-chandra/AutomationLLM_OutReach/issues)
-
-<br/>
+### **Describe your product. Define your target market. The AI finds the leads for you.**
 
 # Demo:
 
